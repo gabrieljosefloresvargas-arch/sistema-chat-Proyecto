@@ -1,1 +1,8 @@
-/target/
+# Eclipse - Configuraciones locales
+.metadata/
+.settings/
+.project
+.classpath
+
+# Maven
+target/
