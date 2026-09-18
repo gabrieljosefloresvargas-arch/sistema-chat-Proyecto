@@ -1,0 +1,8 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.G_Flores.proyectos</groupId>
+  <artifactId>sistema-chat</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>Sistema de Chat</name>
+  <description> plataforma de comunicación interna y mesa de ayuda</description>
+</project>
