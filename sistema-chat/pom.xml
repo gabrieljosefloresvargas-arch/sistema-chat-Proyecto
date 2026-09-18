@@ -3,6 +3,11 @@
   <groupId>com.G_Flores.proyectos</groupId>
   <artifactId>sistema-chat</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+  
   <name>Sistema de Chat</name>
   <description> plataforma de comunicación interna y mesa de ayuda</description>
 </project>
